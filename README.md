@@ -6,7 +6,7 @@
  \____/                                              
  </pre>
 
-I have been a software developer pratically since I could reach a keyboard.
+I have been a software developer practically since I could reach a keyboard.
 
 As I state in my profile, I really don't believe that a programmer, a developer, should
 limit them to a single language. Because as long as you know **what** you want to do, 
@@ -18,12 +18,15 @@ Like VB, C#, SQL Server, among others.
 
 Currently I'm self-employed, working from home.
 
-You can always reach me through the GitHub site, or at any of the following:
+You can always reach me through the any of the following:
 
+* <a href="https://github.com/PaulStSmith">GitHub</a>
 * <a href="https://stackoverflow.com/users/44375">StackOverflow</a>
 * <a href="https://www.codeproject.com/Members/PaulStSmith">CodeProject</a>
 * <a href="https://www.linkedin.com/in/paulstsmith/">LinkedIn</a>
 * <a href="https://twitter.com/PaulStSmith">Twitter</a>
+
+Remember! There's no programming language, only programming logic.
 
 <!---
 PaulStSmith/PaulStSmith is a ✨ special ✨ repository because its 
