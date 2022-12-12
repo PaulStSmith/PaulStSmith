@@ -24,7 +24,6 @@ You can always reach me through the any of the following:
 * <a href="https://stackoverflow.com/users/44375">StackOverflow</a>
 * <a href="https://www.codeproject.com/Members/PaulStSmith">CodeProject</a>
 * <a href="https://www.linkedin.com/in/paulstsmith/">LinkedIn</a>
-* <a href="https://twitter.com/PaulStSmith">Twitter</a>
 
 Remember! There's no programming language, only programming logic.
 
