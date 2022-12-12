@@ -5,6 +5,9 @@
 \ \__,_|_| \__,_|\_,_|_|___/\__|___/_|_|_|_|\__|_||_|
  \____/                                              
  </pre>
+ <a target="_blank" 
+   title="Profile at CodeWars.com" 
+   href="https://www.codewars.com/users/PaulStSmith"><img border="0" src="https://www.codewars.com/users/PaulStSmith/badges/large"/></a>
 
 I have been a software developer practically since I could reach a keyboard.
 
