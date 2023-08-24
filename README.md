@@ -36,10 +36,10 @@ Currently I'm self-employed, working from home.
 
 You can always reach me through the any of the following:
 
-* <a href="https://github.com/PaulStSmith">GitHub</a>
-* <a href="https://stackoverflow.com/users/44375">StackOverflow</a>
-* <a href="https://www.codeproject.com/Members/PaulStSmith">CodeProject</a>
-* <a href="https://www.linkedin.com/in/paulstsmith/">LinkedIn</a>
+* <a target="_blank" href="https://github.com/PaulStSmith">GitHub</a>
+* <a target="_blank" href="https://stackoverflow.com/users/44375">StackOverflow</a>
+* <a target="_blank" href="https://www.codeproject.com/Members/PaulStSmith">CodeProject</a>
+* <a target="_blank" href="https://www.linkedin.com/in/paulstsmith/">LinkedIn</a>
 
 Remember! There's no programming language, only programming logic.
 
