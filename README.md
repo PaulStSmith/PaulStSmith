@@ -4,10 +4,23 @@
 / / _` |  _/ _` | || | \__ \  _\__ \ '  \| |  _| ' \ 
 \ \__,_|_| \__,_|\_,_|_|___/\__|___/_|_|_|_|\__|_||_|
  \____/                                              
- </pre>
- <a target="_blank" 
+</pre>
+<a target="_blank" 
+   href="https://stackoverflow.com/users/44375/paulo-santos">
+   <img border="0" 
+        src="https://stackoverflow.com/users/flair/44375.png?theme=dark" 
+        width="208" 
+        height="58" 
+        alt="My profile at Stack Overflow" 
+        title="My profile at Stack Overflow" /></a>
+<br/>
+<a target="_blank" 
    title="Profile at CodeWars.com" 
-   href="https://www.codewars.com/users/PaulStSmith"><img border="0" src="https://www.codewars.com/users/PaulStSmith/badges/large"/></a>
+   href="https://www.codewars.com/users/PaulStSmith">
+   <img border="0" 
+        src="https://www.codewars.com/users/PaulStSmith/badges/large"
+        alt="My profile at CodeWars" 
+        title="My profile at CodeWars"/></a>
 
 I have been a software developer practically since I could reach a keyboard.
 
